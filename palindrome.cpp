@@ -1,24 +1,24 @@
 #include<stdio.h>
 
-
-
 bool isPalindrome(int x){
     if (x<0)
         return false;
-    // ekok ber kori 
-    
+
+   
+        //new x
     int div = 1;
     while (x >= div*10){
         div = div * 10;
     }
+    // ekok ber kori     
+    int first_number = x/div; // left part 
+    int last_number = x%10; // or right part 
+    if (first_number!= last_number)
+        return false;
+
 
     // Loop 2
     while (x){
-        int first_number = x/div; // left part 
-        int last_number = x%10; // or right part 
-        if (first_number!= last_number)
-            return false;
-        //new x
         x = (x%div)/10;
         div = div/100;
 
