@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696890796 source:d:\vs code\vjudge\multiplication 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

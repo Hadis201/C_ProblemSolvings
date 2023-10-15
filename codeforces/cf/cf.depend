@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695742770 source:d:\vs code\codeforces\cf\main.c
+	<stdio.h>
+	<stdlib.h>
+

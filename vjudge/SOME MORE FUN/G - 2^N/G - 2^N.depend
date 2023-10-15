@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697196768 source:d:\vs code\vjudge\some more fun\g - 2^n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

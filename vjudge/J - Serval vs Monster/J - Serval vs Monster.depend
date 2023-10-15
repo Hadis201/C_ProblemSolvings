@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696443144 source:d:\vs code\vjudge\j - serval vs monster\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

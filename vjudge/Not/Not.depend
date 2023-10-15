@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696432262 source:d:\vs code\vjudge\not\main.c
+	<stdio.h>
+	<stdlib.h>
+

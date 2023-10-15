@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695993379 source:d:\vs code\codeforces\whileloop\main.c
+	<stdio.h>
+	<stdlib.h>
+

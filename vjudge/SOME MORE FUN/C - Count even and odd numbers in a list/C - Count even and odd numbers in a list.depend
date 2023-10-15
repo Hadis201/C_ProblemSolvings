@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697037506 source:d:\vs code\vjudge\some more fun\c - count even and odd numbers in a list\main.c
+	<stdio.h>
+	<stdlib.h>
+

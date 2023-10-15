@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696485588 source:d:\vs code\codeforces\avg,min,max,cntfail\main.c
+	<stdio.h>
+	<stdlib.h>
+
